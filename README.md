@@ -34,3 +34,7 @@ This will:
 ## Data Source
 
 All data is fetched from [Amboss Space](https://docs.amboss.tech/developer).
+
+## Screenshots
+
+![Binance vs OKX](binance-vs-okx.png)
